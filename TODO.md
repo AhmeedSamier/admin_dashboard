@@ -1,0 +1,2 @@
+- Update src/theme.jsx to define stronger palette colors for light and dark modes
+- Add MuiDataGrid component overrides to make grid lines more visible
