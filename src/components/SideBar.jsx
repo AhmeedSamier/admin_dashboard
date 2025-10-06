@@ -155,8 +155,8 @@ export default function SideBar({ open, handleDrawerClose }) {
         <Avatar
           sx={{
             mx: "auto",
-            width: open ? 88 : 44,
-            height: open ? 88 : 44,
+            width: open ? 100 : 44,
+            height: open ? 100 : 44,
             my: 1,
             border: "2px solid grey",
             transition: "0.25s",
